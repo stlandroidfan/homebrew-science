@@ -2,7 +2,7 @@ require 'formula'
 
 class Cufflinks < Formula
   homepage 'http://cufflinks.cbcb.umd.edu/'
-  url 'http://cufflinks.cbcb.umd.edu/downloads/cufflinks-2.0.2.tar.gz'
+  url 'http://cufflinks.cbcb.umd.edu/downloads/cufflinks-2.1.1.tar.gz'
   sha1 '91954b4945c49ca133b39bffadf51bdf9ec2ff26'
 
   depends_on 'boost'    => :build
